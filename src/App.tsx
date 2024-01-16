@@ -1,4 +1,6 @@
-import './App.css'
+import Header from './containers/Header'
+import Hero from './containers/Hero'
+import Produtos from './containers/Produtos'
 
 function App() {
   return (
