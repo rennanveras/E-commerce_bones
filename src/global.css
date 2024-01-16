@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Inter', sans-serif;
+}
+
+.Titulo {
+  font-family: 'Anton', sans-serif;
+}
+
+.Hero {
+  background-image: url(./assets/imgs/banner-heras.png);
+}
